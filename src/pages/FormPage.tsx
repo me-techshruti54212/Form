@@ -34,13 +34,7 @@ const FormPage = () => {
   return (
     <>
 
-      <Typography
-        gutterBottom
-        variant="h5"
-        style={{ marginTop: "10px", color: "white" }}
-      >
-        Enter your details here
-      </Typography>
+     
       <Card
         style={{
           maxWidth: 450,
